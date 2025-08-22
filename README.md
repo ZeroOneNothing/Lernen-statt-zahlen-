@@ -7,7 +7,7 @@ Dieses Projekt zeigt, wie man mit Neugier, Tools und Community frei lernen kann.
 
 ## 🚀 Ziel
 Lernen soll ein Erlebnis sein, kein kaufbares Produkt.  
-Hier entsteht eine Sammlung von freien Ressourcen, Ideen und Werkzeugen und man braucht nur Verstand, sonst nichts.
+Hier entsteht eine Sammlung von freien Ressourcen, Ideen, Werkzeugen und man braucht nur den Verstand, sonst nichts.
 
 ## 📚 Inhalte (geplant)
 - Freie Lernplattformen
