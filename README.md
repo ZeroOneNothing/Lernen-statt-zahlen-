@@ -14,8 +14,13 @@ Hier entsteht eine Sammlung von freien Ressourcen, Ideen, Werkzeugen und man bra
 - Open-Source-Tools
 - Mindset & Motivation
 - Mitmach-Möglichkeiten
-- ein Lehrplan für wirklich jeden, der kostenlos sich was beibringen will
-- mein Tagebuch, das täglich.  aktualisiert wird, mit dem was ich frei gelernt habe 
+- ein Lehrplan für wirklich jeden, der sich kostenlos was beibringen will
+- mein Tagebuch, das täglich aktualisiert wird, mit dem was ich frei gelernt habe 
 
 ## 🛠️ Mitmachen
-Ich bin ein Anfänger, aber will eine Community kennenlernen.Es darf jeder mitmachen. Jeder ist willkommen egal welche Hautfarbe, Ethnie, egal ob ♀️oder ♂️ oder ⚧️. Ich setze nur gegenseitigen Respekt voraus– gemeinsam lernen wir besser.
+Ich bin ein Anfänger, und weiß wie stark eine Community sein kann. Es darf jeder mitmachen. Jeder ist willkommen egal welche Hautfarbe, Ethnie, egal ob ♀️oder ♂️ oder ⚧️. Ich setze nur gegenseitigen Respekt voraus– gemeinsam lernen wir besser.
+
+## 🌱 Vision
+Wissen gehört allen.  
+Dieses Projekt wächst mit jedem Beitrag, jeder Frage und jedem Lernerlebnis.  
+Lasst uns gemeinsam zeigen, dass Bildung frei sein kann – und Spaß macht.
