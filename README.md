@@ -1,4 +1,4 @@
-![Mein Banner](Copilot_image_175587452366.jpg)
+![Mein Banner(Copilot_image_175587452366.jpg)
 # Lernen statt zahlen
 Viele wissen nicht, dass Lernen effizient sein kann und kostenlos ist.
 
